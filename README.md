@@ -1,4 +1,4 @@
-T# 🚦 Traffic Demand Prediction using Machine Learning
+# 🚦 Traffic Demand Prediction using Machine Learning
 
 An AI-driven traffic demand prediction system developed for smart urban mobility and traffic analysis using Machine Learning and XGBoost Regression.
 
